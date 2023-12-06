@@ -17,7 +17,7 @@ Ciphertext: xlmdp{ryzo_drsc_gkcxd_dyy_rkbn_yp_k_cdkbd}
 ---
 ### Solution
 
-'A roman emperor', which was mentioned in the task, is Julius Caesar. The ciphertext is encoded with the Caesar cipher, which was named after this him. Placing the ciphertext in the Cyberchef with the decryption settings _ROT13 (Amount = 16)_ will result in our flag.
+'A roman emperor', which was mentioned in the task, is Julius Caesar. The ciphertext is encoded with the Caesar cipher, which was named after him. Placing the ciphertext in the Cyberchef with the decryption settings _ROT13 (Amount = 16)_ will result in our flag.
 
 ---
 ### Flag
