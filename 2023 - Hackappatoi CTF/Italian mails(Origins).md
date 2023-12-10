@@ -16,7 +16,7 @@ Flag format: hctf{street_name_number}
 The first thing that came to my mind was to type **Enzo Tommasi poste italiane** into Google. After this we can see the post on Reddit(https://www.reddit.com/r/copypastaitalia/comments/1251pyq/enzo_tomasi_alle_poste_lyrics/).
 
 There are lyrics to video in which we can see **Ostia**, so we can suggest that the post office is located in Ostia. And if we type **ostia poste italiane** we will see several post offices one of which is the one we are looking for.
-(../assets/adress.png)
+![](../assets/adress.png)
 
 ---
 
