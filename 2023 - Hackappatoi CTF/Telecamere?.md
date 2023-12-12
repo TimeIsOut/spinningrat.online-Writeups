@@ -15,6 +15,7 @@ Flag format: hctf{street_name}
 If we google **Roberto intervista** we'll see this(it will help us later):
 ![](assets/RobertodaGenova.png)
 
+
 And if we look at the images, we'll see this picture:
 ![](assets/interview.jpeg)
 
@@ -31,4 +32,4 @@ Going through all the options we come across the **coop** we need:
 ### Flag
 
 ```
-hctf{Viale_della_Stella_Polare}
+hctf{???}
